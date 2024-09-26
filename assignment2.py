@@ -14,7 +14,7 @@ nltk.download("punkt")
 nltk.download("stopwords")
 nltk.download("wordnet")
 
-
+#
 class VSM:
     """
     A class representing a Vector Space Model (VSM) for Information Retrieval (IR).
